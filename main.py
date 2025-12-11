@@ -8,4 +8,7 @@ print("I am Vikaash")
 print("I love coding")
 
 # Simple Calculation
+
 print("the result of 100 + 90 is:", 100 + 90)
+
+print("yay")
